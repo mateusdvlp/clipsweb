@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97c16718-9a48-4c05-ac87-ec816d20cbd7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Modules/Backoffice/Resources/views/category/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/Backoffice/Resources/views/category/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules/Backoffice/Resources/views/category/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/Backoffice/Resources/views/category/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Modules/Backoffice/Resources/views/dashboard/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/Backoffice/Resources/views/dashboard/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/Base/Entities/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/Base/Entities/Category.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,20 +50,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Modules/Backoffice/Resources/views/dashboard/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="106" column="28" selection-start-line="106" selection-start-column="28" selection-end-line="106" selection-end-column="28" />
+            <state relative-caret-position="75">
+              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Modules/Backoffice/Resources/views/category/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="18" selection-end-line="5" />
+            <state relative-caret-position="105">
+              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+              <folding>
+                <element signature="e#364#385#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Modules/Backoffice/Resources/views/category/create.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            <state relative-caret-position="133">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -131,14 +135,14 @@
         <option value="$PROJECT_DIR$/Modules/Base/Resources/views/layouts/lte.blade.php" />
         <option value="$PROJECT_DIR$/Modules/Base/Resources/views/utils/alert.blade.php" />
         <option value="$PROJECT_DIR$/Modules/Backoffice/Http/Controllers/DashboardController.php" />
-        <option value="$PROJECT_DIR$/Modules/Backoffice/Resources/views/category/index.blade.php" />
-        <option value="$PROJECT_DIR$/Modules/Backoffice/Resources/views/category/create.blade.php" />
         <option value="$PROJECT_DIR$/Modules/Backoffice/Http/Controllers/CategoryController.php" />
         <option value="$PROJECT_DIR$/Modules/Backoffice/Resources/views/layouts/master.blade.php" />
         <option value="$PROJECT_DIR$/Modules/Backoffice/Routes/web.php" />
         <option value="$PROJECT_DIR$/Modules/Base/Database/Migrations/2022_03_24_141406_create_categories_table.php" />
         <option value="$PROJECT_DIR$/Modules/Base/Entities/Category.php" />
         <option value="$PROJECT_DIR$/Modules/Backoffice/Resources/views/dashboard/index.blade.php" />
+        <option value="$PROJECT_DIR$/Modules/Backoffice/Resources/views/category/create.blade.php" />
+        <option value="$PROJECT_DIR$/Modules/Backoffice/Resources/views/category/index.blade.php" />
       </list>
     </option>
   </component>
@@ -350,19 +354,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648125355518</updated>
-      <workItem from="1648125359145" duration="12776000" />
+      <workItem from="1648125359145" duration="14093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12776000" />
+    <option name="totallyTimeSpent" value="14093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1363" y="-1" width="1372" height="745" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -428,13 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Backoffice/Resources/views/category/create.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Modules/Base/Resources/views/layouts/master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -449,13 +446,6 @@
           <folding>
             <element signature="e#2227#2233#0#HTML" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Backoffice/Resources/views/category/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -486,6 +476,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/Backoffice/Resources/views/dashboard/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Modules/Backoffice/Resources/views/layouts/master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="643">
@@ -496,10 +493,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Backoffice/Resources/views/dashboard/index.blade.php">
+    <entry file="file://$PROJECT_DIR$/Modules/Backoffice/Resources/views/category/create.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="106" column="28" selection-start-line="106" selection-start-column="28" selection-end-line="106" selection-end-column="28" />
+        <state relative-caret-position="133">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/Backoffice/Resources/views/category/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding>
+            <element signature="e#364#385#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
