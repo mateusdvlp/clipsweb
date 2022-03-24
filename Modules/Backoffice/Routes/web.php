@@ -17,7 +17,8 @@ Route::prefix('backoffice')->group(function() {
     Route::get('/', 'DashboardController@index')->name('backoffice.dashboard-index');
 
     /*category*/
-    Route::get('/categories', 'CategoryController@index')->name('backoffice.category-index');
+    Route::get('categories', 'CategoryController@index')->name('backoffice.category-index');
     Route::get('category/create', 'CategoryController@create')->name('backoffice.category-create');
+    Route::post('/category/store', 'CategoryController@store')->name('backoffice.category-store');
 
 });
