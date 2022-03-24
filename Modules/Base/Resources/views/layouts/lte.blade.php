@@ -96,7 +96,7 @@
 <!-- AdminLTE App -->
 <script src="{{asset('vendor/lte/dist/js/adminlte.js')}}"></script>
 <!-- AdminLTE for demo purposes -->
-{{--<script src="{{asset('lte/dist/js/demo.js')}}"></script>--}}
+
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
 <script src="{{asset('vendor/lte/dist/js/pages/dashboard.js')}}"></script>
 <script src="{{asset('vendor/lte/plugins/sweetalert2/sweetalert2.min.js')}}"></script>

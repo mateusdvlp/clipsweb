@@ -12,5 +12,7 @@
 */
 
 Route::prefix('backoffice')->group(function() {
-    Route::get('/', 'BackofficeController@index');
+
+    Route::get('/', 'DashboardController@index')->name('backoffice.dashboard-index');
+
 });
