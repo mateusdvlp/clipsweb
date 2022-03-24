@@ -13,6 +13,7 @@
 
 Route::prefix('backoffice')->group(function() {
 
+    /*dashboard*/
     Route::get('/', 'DashboardController@index')->name('backoffice.dashboard-index');
 
     /*category*/
