@@ -43,7 +43,7 @@ class SubcategoryController extends Controller
      */
     public function show($id)
     {
-        return view('backoffice::show');
+        return view('backoffice::subcategory.show');
     }
 
     /**
@@ -53,7 +53,7 @@ class SubcategoryController extends Controller
      */
     public function edit($id)
     {
-        return view('backoffice::edit');
+        return view('backoffice::subcategory.edit');
     }
 
     /**
