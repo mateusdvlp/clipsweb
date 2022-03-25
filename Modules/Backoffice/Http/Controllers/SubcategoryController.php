@@ -14,7 +14,7 @@ class SubcategoryController extends Controller
      */
     public function index()
     {
-        return view('backoffice::index');
+        return view('backoffice::subcategory.index');
     }
 
     /**
@@ -23,7 +23,7 @@ class SubcategoryController extends Controller
      */
     public function create()
     {
-        return view('backoffice::create');
+        return view('backoffice::subcategory.create');
     }
 
     /**

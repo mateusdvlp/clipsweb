@@ -5,7 +5,7 @@
             <div class="card">
                 <div class="card-header">
                     <div class="input-group input-group-sm">
-                        <a href="{{route('backoffice.category-create')}}" class="btn btn-success">
+                        <a href="{{route('backoffice.subcategory-create')}}" class="btn btn-success">
                             Nova <i class="fas fa-plus"></i>
                         </a>
                     </div>
